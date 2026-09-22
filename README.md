@@ -16,3 +16,6 @@ LANGUAGE MODELS](https://arxiv.org/pdf/2210.03629)
 - [Deploying agents to agentcore using direct code deployment](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/runtime-get-started-code-deploy.html)
 - [CrewAI quickstart](https://docs.crewai.com/v1.15.21/en/quickstart)
 - [Building a LangGraph Agent from Scratch](https://towardsdatascience.com/building-a-langgraph-agent-from-scratch/)
+- Tools for building agents for AgentCore
+    - **CURRENT** [AgentCore CLI](https://github.com/aws/agentcore-cli)
+    - **DEPRECATED** [Agentcore Starter toolkit](https://github.com/aws/bedrock-agentcore-starter-toolkit)
