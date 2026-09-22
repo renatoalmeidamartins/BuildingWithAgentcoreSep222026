@@ -1,3 +1,6 @@
 langchain-aws
 langchain
 strands-agents
+starlette
+fastmcp
+strands-agents-tools
