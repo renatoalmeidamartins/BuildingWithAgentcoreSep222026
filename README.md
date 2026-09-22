@@ -19,3 +19,6 @@ LANGUAGE MODELS](https://arxiv.org/pdf/2210.03629)
 - Tools for building agents for AgentCore
     - **CURRENT** [AgentCore CLI](https://github.com/aws/agentcore-cli)
     - **DEPRECATED** [Agentcore Starter toolkit](https://github.com/aws/bedrock-agentcore-starter-toolkit)
+- [AWS MCP Servers](https://github.com/awslabs/mcp)
+- [MCP documentation](https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro)
+- [MCP Inspector](https://github.com/modelcontextprotocol/inspector)
