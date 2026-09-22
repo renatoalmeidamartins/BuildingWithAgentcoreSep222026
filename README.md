@@ -8,3 +8,4 @@
 - [REACT: SYNERGIZING REASONING AND ACTING IN
 LANGUAGE MODELS](https://arxiv.org/pdf/2210.03629)
 - [What Is Agentic AI?](https://aws.amazon.com/what-is/agentic-ai/)
+- [Agentic AI Security Scoping Matrix]((https://aws.amazon.com/ai/security/agentic-ai-scoping-matrix/)
