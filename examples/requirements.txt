@@ -4,3 +4,5 @@ strands-agents
 starlette
 fastmcp
 strands-agents-tools
+mcp-proxy-for-aws
+mcp-client

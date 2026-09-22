@@ -3,6 +3,7 @@
 ## Lab, materials and evaluation
 - [Access to labs and course materials](https://us-east-1.student.classrooms.aws.training/class/ilt%232VGhYw4vQiSHJ8ChDNdCMy)
 - [MyClass](https://myclass.skillbuilder.aws/), from here you should also have access to the lab environment. Once the class is marked complete (shortly after the lunch break), you will be able to go to the "past classes" section and fill the evaluation survey.
+- [Repo full with agentcore samples to explre](https://github.com/awslabs/agentcore-samples/tree/main)
 
 ## Class links
 - [REACT: SYNERGIZING REASONING AND ACTING IN
@@ -29,3 +30,4 @@ LANGUAGE MODELS](https://arxiv.org/pdf/2210.03629)
 - [Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
 - [Prompt caching for faster model inference](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-caching.html)
 - [Understanding intelligent prompt routing in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html)
+- [Built-in strategies for long-term memory](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/built-in-strategies.html)
