@@ -1,4 +1,4 @@
-# BuildingWithAgentcoreSep292026
+# BuildingWithAgentcoreSep222026
 
 ## Lab, materials and evaluation
 - [Access to labs and course materials](https://us-east-1.student.classrooms.aws.training/class/ilt%232VGhYw4vQiSHJ8ChDNdCMy)
